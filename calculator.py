@@ -23,4 +23,7 @@ def record(value, history=None):
 
 
 def broken_total():
+
+    missing_totals = None
+
     return missing_totals
