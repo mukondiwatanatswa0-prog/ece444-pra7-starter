@@ -20,3 +20,10 @@ def record(value, history=None):
         history = []
     history.append(value)
     return history
+
+
+def broken_total():
+
+    missing_totals = None
+
+    return missing_totals
